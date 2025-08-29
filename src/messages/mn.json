@@ -1,0 +1,38 @@
+{
+  "common": {
+    "loading": "Ачааллаж байна...",
+    "save": "Хадгалах",
+    "cancel": "Цуцлах",
+    "delete": "Устгах",
+    "edit": "Засах",
+    "create": "Үүсгэх",
+    "search": "Хайх",
+    "filter": "Шүүлтүүр",
+    "export": "CSV татах",
+    "actions": "Үйлдлүүд"
+  },
+  "teacher": {
+    "title": "Багшийн Портал",
+    "dashboard": "Хяналтын Самбар",
+    "createTeacher": "Багш Үүсгэх",
+    "teacherList": "Багшийн Жагсаалт",
+    "workSessions": "Ажлын Сессүүд",
+    "startWork": "Ажил Эхлүүлэх",
+    "endWork": "Ажил Дуусгах",
+    "takeBreak": "Завсарлага",
+    "endBreak": "Завсарлага Дуусгах",
+    "fullName": "Бүтэн Нэр",
+    "email": "И-мэйл",
+    "phone": "Утас",
+    "department": "Тэнхим",
+    "position": "Албан Тушаал",
+    "status": "Төлөв",
+    "totalHours": "Нийт Цаг",
+    "breakProject": "Завсарлагын Төсөл"
+  },
+  "status": {
+    "active": "Ажиллаж байгаа",
+    "break": "Завсарлагад",
+    "completed": "Дууссан"
+  }
+}

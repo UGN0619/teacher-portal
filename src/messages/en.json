@@ -1,0 +1,38 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "search": "Search",
+    "filter": "Filter",
+    "export": "Export CSV",
+    "actions": "Actions"
+  },
+  "teacher": {
+    "title": "Teacher Portal",
+    "dashboard": "Dashboard",
+    "createTeacher": "Create Teacher",
+    "teacherList": "Teacher List",
+    "workSessions": "Work Sessions",
+    "startWork": "Start Work",
+    "endWork": "End Work",
+    "takeBreak": "Take Break",
+    "endBreak": "End Break",
+    "fullName": "Full Name",
+    "email": "Email",
+    "phone": "Phone",
+    "department": "Department",
+    "position": "Position",
+    "status": "Status",
+    "totalHours": "Total Hours",
+    "breakProject": "Break Project Description"
+  },
+  "status": {
+    "active": "Working",
+    "break": "On Break",
+    "completed": "Completed"
+  }
+}
